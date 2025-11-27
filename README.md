@@ -68,20 +68,6 @@ Hi! I'm **Nirupam Naragund**, a passionate student and developer who loves build
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nirupamnaragund&show_icons=true&theme=merko" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirupamnaragund&layout=compact&theme=merko" />
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nirupamnaragund&theme=merko" />
-</p>
-
----
-
 # 🔗 Connect With Me
 
 <p align="center">
