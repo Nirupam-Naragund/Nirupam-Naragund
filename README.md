@@ -1,53 +1,99 @@
-# Hi there, I'm Nirupam Naragund 👋
-### A passionate student building intelligent and scalable full-stack applications.
+<!-- Typing Animation Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=3EB489&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Nirupam+Naragund+👋;Full-Stack+Developer+%7C+AI+Engineer;Building+Intelligent+%26+Scalable+Applications" />
+</p>
 
 ---
 
-## 💡 What I Bring to the Table
+# 👨‍💻 About Me
 
-* [cite_start]**🎓 Education:** Information Science and Engineering @ Nitte Meenakshi Institute of Technology [cite: 5, 6]
-* [cite_start]**📍 Location:** Bengaluru, India [cite: 1]
+Hi! I'm **Nirupam Naragund**, a passionate student and developer who loves building **intelligent, scalable, and user-centric applications** using modern full-stack and AI technologies.
 
----
-
-## 🛠️ My Technical Stack
-
-| Category | Skills & Technologies |
-| :--- | :--- |
-| **Programming** | [cite_start]C++, **JavaScript**, **Python** [cite: 38] |
-| **Web Development** | [cite_start]**NextJS**, **ReactJS**, NodeJS, ExpressJS, HTML, CSS, Tailwind [cite: 39] |
-| **AI Technologies** | [cite_start]Data Science, Machine Learning, Deep Learning, **Gen AI**, Agentic AI (LangGraph, CrewAI) [cite: 40] |
-| **Databases** | [cite_start]**MongoDB**, MySQL, VectorDB (Pinecone, ChromaDB) [cite: 41] |
-| **Libraries** | [cite_start]NumPy, Pandas, TensorFlow, PyTorch, scikit-learn [cite: 40] |
+- 🎓 **Information Science & Engineering** @ NMIT, Bengaluru  
+- 📍 Based in **Bengaluru, India**  
+- 🚀 Focused on **AI, Full-Stack Development, Agentic AI & Human-Robot Interaction**
 
 ---
 
-## 🚀 Key Experience & Contributions
+# 🛠️ Tech Stack & Tools
 
-### [cite_start]🧠 Research Intern @ Indian Institute of Science (IISc) [cite: 10, 11]
-* [cite_start]Working on a Human-Human-Robot Interaction project[cite: 12].
-* [cite_start]Integrated LLM's, Text-to-Speech, and Speech-to-Text systems for **natural, real-time human-robot communication**[cite: 14].
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+</p>
 
-### [cite_start]☁️ Next.js Developer Intern @ StarX91 Technologies Pvt Ltd [cite: 15, 16]
-* [cite_start]Developed a landing page using **Next.js** and Acertinity UI, **boosting user engagement by 30%**[cite: 17].
-* [cite_start]Created responsive SaaS pages with **React.js and Tailwind CSS**, improving mobile UX by 40%[cite: 18].
+### **Web & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,html,css" />
+</p>
 
-### [cite_start]💰 Freelancer: Finance Management Website [cite: 19, 20]
-* [cite_start]Built a loan tracking platform using **Next.js and MongoDB** with **ML models to predict repayment behavior**[cite: 21].
-* [cite_start]Trained and evaluated classification models for risk scoring using Python, scikit-learn, and pandas[cite: 22].
+### **AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://img.shields.io/badge/VectorDB-Pinecone-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-black?style=for-the-badge" />
+</p>
 
 ---
 
-## ✨ Achievements & Recognition
+# 🚀 Experience
 
-* [cite_start]**Finalist in Smart India Hackathon 2024** (Top 5 teams out of 500) for an innovative AI-driven legal assistant system[cite: 44].
-* [cite_start]Secured **2nd place** among 50 teams in the National Level Hackathon NMIT HACKS[cite: 43].
+## 🧠 Research Intern — Indian Institute of Science (IISc)
+- Working on **Human–Human–Robot Interaction** research.
+- Integrated **LLMs, Speech-to-Text, Text-to-Speech**, and real-time communication pipelines.
+- Helping build socially intelligent robot behaviors and multi-agent systems.
+
+## ☁️ Next.js Developer Intern — StarX91 Technologies
+- Built a high-performance landing page in **Next.js + Aceternity UI**, improving engagement by **30%**.
+- Designed responsive SaaS dashboards with **React + Tailwind**, boosting mobile UX by **40%**.
+
+## 💼 Freelancer — Finance Management Platform
+- Developed **Next.js + MongoDB** loan management system.
+- Built **ML models for repayment prediction** and risk scoring using Python and scikit-learn.
 
 ---
 
-## 🔗 Let's Connect!
+# 🏆 Achievements
 
-| | Contact Details |
-| :--- | :--- |
-| [cite_start]**Email** | nirupamnaragund02@gmail.com [cite: 4] |
-| **LinkedIn** | [cite_start]Nirupam-Naragund [cite: 4] |
+- 🥇 **Finalist – Smart India Hackathon 2024** (Top 5/500 teams) — AI-driven legal assistant.
+- 🥈 **2nd Place – NMIT HACKS** National Hackathon.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nirupamnaragund&show_icons=true&theme=merko" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirupamnaragund&layout=compact&theme=merko" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nirupamnaragund&theme=merko" />
+</p>
+
+---
+
+# 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:nirupamnaragund02@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nirupamnaragund">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+</p>
+
+---
+
+⭐ **Thanks for visiting!** Feel free to ⭐️ my repositories or reach out for collaborations!
